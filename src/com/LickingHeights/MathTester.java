@@ -1,3 +1,5 @@
+package com.LickingHeights;
+
 public class MathTester {
     public static void main(String[] args) {
 
@@ -13,7 +15,7 @@ public class MathTester {
         secondWord = "house";
 
 
-        System.out.println(firstWord+firstNumber);
+        System.out.println(firstWord + (firstNumber + secondNumber));
 
     }
 }

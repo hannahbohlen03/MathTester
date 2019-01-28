@@ -1,1 +1,1 @@
-MathTester
+com.LickingHeights.MathTester

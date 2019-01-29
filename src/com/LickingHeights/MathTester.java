@@ -8,6 +8,12 @@ public class MathTester {
         int secondNumber;
         int sum;
 
+        //Initialize variables
+        firstNumber = 20;
+        secondNumber = 5;
+        sum = firstNumber + secondNumber;
+        
+
 
 
     }
